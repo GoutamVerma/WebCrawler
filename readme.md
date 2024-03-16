@@ -71,7 +71,7 @@ Now you should be able to access your application running inside the Docker cont
 
 ## Prerequiste
  - Python3 
- - requests packaege
+ - requests package
 
 ## Steps to run client
 
